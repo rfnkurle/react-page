@@ -42,8 +42,8 @@ const Portfolio = () => (
                     <Col md="4">
                     <Reveal effect="fadeIn" duration={1000}>
                     <GridComponent>
-                        <a data-tip="Train Scheduler"href="https://rfnkurle.github.io/train-scheduler/"><img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hell-train-ryan-seek.jpg" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
                         
+                    <a data-tip="React Google Booksearch" href="https://react-mern-booksearch.herokuapp.com/"><img src="https://thenypost.files.wordpress.com/2019/03/old-library-book.jpg%3Fquality%3D90%26strip%3Dall%26w%3D618%26h%3D410%26crop%3D1" style={{ height: 200, width: 200, textAlign: "center" }} alt="React Google Booksearch" /></a>
                     </GridComponent>
                     </Reveal>
                     </Col>
@@ -53,7 +53,7 @@ const Portfolio = () => (
 
                     <GridComponent>
                     
-                        <a data-tip="Freelancer" href="https://freelancer2020.herokuapp.com/ "><img src="https://image.flaticon.com/icons/png/512/64/64888.png" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
+                    <a data-tip="Train Scheduler"href="https://rfnkurle.github.io/train-scheduler/"><img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hell-train-ryan-seek.jpg" style={{ height: 200, width: 200, textAlign: "center" }} alt="Train Scheduler" /></a>
                         
                     </GridComponent>
                     </Reveal>
@@ -78,16 +78,16 @@ const Portfolio = () => (
                     <Col md="4">
                     <Reveal effect="fadeInUp" duration={2750}>
                     <GridComponent>
+                    <a data-tip="Freelancer" href="https://freelancer2020.herokuapp.com/ "><img src="https://image.flaticon.com/icons/png/512/64/64888.png" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
                        
-                        <a data-tip="RPG Memory Game"href="https://agile-anchorage-48812.herokuapp.com/"><img src="http://img05.deviantart.net/e22a/i/2005/134/c/b/ff7_lovely_creatures_by_genyaxadrian.gif" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
                     </GridComponent>
                     </Reveal>
                     </Col>
                     <Col md="4">
                     <Reveal effect="fadeInLeft" duration={3000}>
                     <GridComponent>
-                        <a data-tip= "Psychic Game"href="https://rfnkurle.github.io/Psychic-Game/"><img src="https://www.bing.com/th?id=OIP.QkT1qZAhJH68Ibb2SHqpZgD5D5&pid=Api&rs=1&p=0" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
-                        
+                      
+                    <a data-tip="RPG Memory Game"href="https://agile-anchorage-48812.herokuapp.com/"><img src="http://img05.deviantart.net/e22a/i/2005/134/c/b/ff7_lovely_creatures_by_genyaxadrian.gif" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
                     </GridComponent>
                     </Reveal>
                     </Col>
