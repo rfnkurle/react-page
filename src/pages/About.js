@@ -33,8 +33,11 @@ const About = () => (
                 <div style={insideStyles}>
                     <Reveal effect="fadeIn" duration={2000}>
                         <TextContainerOne>
-                            <p>I am a full stack web developer in awe of the power of technology and the good it can do for people. I love learning. I love creating. I love making people laugh. I believe in making visually pleasing, responsive and entertaining applications with everyday utility.
-                            </p>
+                            <p>I am a Full Stack Web Developer focused on finding effective solutions to both front-end and back-end problems. </p>
+                            <p>Whether it's building a sleek looking webpage, working with tons of data behind the scenes, or putting it all together, I got you covered.</p>  
+                            <p> I hope to make visually pleasing, approachable applications with everyday utility. I love learning. I love creating. I love making people laugh. I look forward to any challenge within the developer community. 
+                                It is my goal to work with passionate and brilliant individuals striving to create solutions to to any given problem. </p>
+                            
                             <p>Let's work together!</p>
                         </TextContainerOne>
                     </Reveal>

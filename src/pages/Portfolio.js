@@ -43,7 +43,7 @@ const Portfolio = () => (
                     <Reveal effect="fadeIn" duration={1000}>
                     <GridComponent>
                         
-                    <a data-tip="React Google Booksearch" href="https://react-mern-booksearch.herokuapp.com/"><img src="https://thenypost.files.wordpress.com/2019/03/old-library-book.jpg%3Fquality%3D90%26strip%3Dall%26w%3D618%26h%3D410%26crop%3D1" style={{ height: 200, width: 200, textAlign: "center" }} alt="React Google Booksearch" /></a>
+                    <a data-tip="React Google Booksearch" href="https://r-mern-books.herokuapp.com/"><img src="https://thenypost.files.wordpress.com/2019/03/old-library-book.jpg%3Fquality%3D90%26strip%3Dall%26w%3D618%26h%3D410%26crop%3D1" style={{ height: 200, width: 200, textAlign: "center" }} alt="React Google Booksearch" /></a>
                     </GridComponent>
                     </Reveal>
                     </Col>
@@ -69,7 +69,7 @@ const Portfolio = () => (
                     <Col md="4">
                     <Reveal effect="fadeIn" duration={5500}>
                     <GridComponent>
-                        <a data-tip="Portfolio Website Repo" href="https://github.com/rfnkurle/react-portfolio"><img src="https://www.eschoolnews.com/files/2016/12/computer-science-education.jpg" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
+                        <a data-tip="Portfolio Website Repo" href="https://github.com/rfnkurle/react-page"><img src="https://www.eschoolnews.com/files/2016/12/computer-science-education.jpg" style={{ height: 200, width: 200, textAlign: "center" }} alt="Clicky Game" /></a>
                         
                     </GridComponent>
                     </Reveal>
@@ -150,7 +150,7 @@ const Portfolio = () => (
                     <i data-tip="React.js"class="fab fa-react fa-7x"></i>
                     <br></br>
                     <br></br>
-                    <i data-tip="+Bootstrap, SQL, MongoDB, Express, Firebase and more! "class="fab fa-rebel fa-7x"></i>
+                    <i data-tip="+Python, Bootstrap, SQL, MongoDB, Express, Firebase, and more! "class="fab fa-rebel fa-7x"></i>
 
                     
                     </GridComponent>
