@@ -20,7 +20,7 @@ const Contact = () => {
     return (
         <>
             <Parallax bgImage={require("../img/RobbySwing.jpeg")} strength={500}>
-                <div style={{ height: 480, width: 960 }}>
+                <div style={{ height: 505 }}>
                     <div style={insideStyles}>
                         <Container>
                             <Row>
@@ -60,10 +60,10 @@ const Contact = () => {
                     </div>
 
                 </div>
-
+                <LinksBox />
             </Parallax>
 
-            <LinksBox />
+            
 
 
 

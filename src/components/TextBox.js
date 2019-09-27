@@ -21,7 +21,7 @@ text-transform: none;
 `
 
 const IconStyle = styled.div`
-height:90px
+height:110px
 background-color: #394D6B;
 margin-top: .5em;  
     text-align: center;
