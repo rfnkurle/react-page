@@ -18,26 +18,24 @@ const insideStyles = {
     transform: "translate(-50%,-50%)",
 
 };
-const image1 =
-    "https://img.freepik.com/free-photo/soft-cloudy-is-gradient-pastel-abstract-sky-background-sweet-color_6529-1434.jpg?size=626&ext=jpg";
 
-const image3 =
-    "https://img.freepik.com/free-photo/soft-cloudy-is-gradient-pastel-abstract-sky-background-sweet-color_6529-1434.jpg?size=626&ext=jpg";
+
+
 
 
 const About = () => (
     <div style={styles}>
 
-        <Parallax bgImage={image1} strength={500}>
+        <Parallax bgImage={require("../img/Blue:green sky.jpg")} strength={500}>
             <div style={{ height: 500 }}>
                 <div style={insideStyles}>
                     <Reveal effect="fadeIn" duration={2000}>
                         <TextContainerOne>
                             <p>I am a Full Stack Web Developer focused on finding effective solutions to both front-end and back-end problems. </p>
-                            <p>Whether it's building a sleek looking webpage, working with tons of data behind the scenes, or putting it all together, I got you covered.</p>  
-                            <p> I hope to make visually pleasing, approachable applications with everyday utility. I love learning. I love creating. I love making people laugh. I look forward to any challenge within the developer community. 
+                            <p>Whether it's building a sleek looking webpage, working with tons of data behind the scenes, or putting it all together, I got you covered.</p>
+                            <p> I hope to make visually pleasing, approachable applications with everyday utility. I love learning. I love creating. I love making people laugh. I look forward to any challenge within the developer community.
                                 It is my goal to work with passionate and brilliant individuals striving to create solutions to to any given problem. </p>
-                            
+
                             <p>Let's work together!</p>
                         </TextContainerOne>
                     </Reveal>
@@ -46,8 +44,9 @@ const About = () => (
             </div>
         </Parallax>
 
-        <TextBox tagline="Superhero Uncle."></TextBox>
-        <Parallax bgImage={image3} blur={{ min: -1, max: 3 }}>
+        <TextBox />
+
+        <Parallax bgImage={require("../img/Blue:green sky.jpg")} blur={{ min: -1, max: 3 }}>
             <div style={{ height: 500 }}>
                 <div style={insideStyles}>
                     <div style={{ paddingBottom: 30 }}>
@@ -68,9 +67,9 @@ const About = () => (
             </div>
         </Parallax>
 
-        <TextBox/>
-           
-        
+        <TextBox />
+
+
     </div>
 )
 
