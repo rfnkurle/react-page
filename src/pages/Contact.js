@@ -20,7 +20,7 @@ const Contact = () => {
     return (
         <>
             <Parallax bgImage={require("../img/RobbySwing.jpeg")} strength={500}>
-                <div style={{ height: 480, width: 940 }}>
+                <div style={{ height: 480, width: 9 }}>
                     <div style={insideStyles}>
                         <Container>
                             <Row>
@@ -43,7 +43,7 @@ const Contact = () => {
                                     <br></br>
 
                                     <TextContainerOne >
-                                        <h2><i class="far fa-clone"></i>rfnkurle@gmail.com</h2>
+                                        <h2 style={{marginBottom:20, paddingRight: 1000}}>rfnkurle@gmail.com</h2>
 
                                     </TextContainerOne>
                                     <TextContainerOne >
