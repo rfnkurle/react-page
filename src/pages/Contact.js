@@ -19,8 +19,8 @@ const insideStyles = {
 const Contact = () => {
     return (
         <>
-            <Parallax bgImage={"https://scontent-iad3-1.xx.fbcdn.net/v/t31.0-8/1272351_10104061362044721_454066525_o.jpg?_nc_cat=109&_nc_eui2=AeERreBBOapunsC0LOoV_I5YU9ZH77pijIoHTO6lVJ9KmfNvZpTaTRCtxwE5cBm3V7tNzlVwMhzFIHYLoksAwhYg6deMT7w7F6mITa-pOjXCgQ&_nc_oc=AQlwv0EOqBHegFuVdZ_Akqdw_YUByD31l9FWUP50OBAsJyWbYdsIRmdBO6FISH_YEz0&_nc_ht=scontent-iad3-1.xx&oh=e970387593a59c031b265bbfbbcabc3c&oe=5D8A6C84"} strength={500}>
-                <div style={{ height: 480, width: 950 }}>
+            <Parallax bgImage={require("../img/RobbySwing.jpeg")} strength={500}>
+                <div style={{ height: 480, width: 940 }}>
                     <div style={insideStyles}>
                         <Container>
                             <Row>
