@@ -43,7 +43,7 @@ const Portfolio = () => (
                                 <Reveal effect="fadeIn" duration={1000}>
                                     <GridComponent>
 
-                                        <a data-tip="React Google Booksearch" href="https://r-mern-books.herokuapp.com/"><img src="https://thenypost.files.wordpress.com/2019/03/old-library-book.jpg%3Fquality%3D90%26strip%3Dall%26w%3D618%26h%3D410%26crop%3D1" style={{ height: 200, width: 200, textAlign: "center" }} alt="React Google Booksearch" /></a>
+                                        <a data-tip="React Google Booksearch" href="https://r-mern-books.herokuapp.com/"><img src="https://nypost.com/wp-content/uploads/sites/2/2018/10/181013-bookworms.jpg?quality=90&strip=all&w=1200" style={{ height: 200, width: 200, textAlign: "center" }} alt="React Google Booksearch" /></a>
                                     </GridComponent>
                                 </Reveal>
                             </Col>
